@@ -14,6 +14,13 @@ import ooc.enums.Month;
  * @author Mayara Lorens and Thayene Lorens
  */
 public class Car implements CarInterface {
+    
+    //ATTRIBUTES - Based on the getters and setters
+    private int id;
+    private Make make;
+    private double rate;
+    private boolean availability;
+
 
     @Override
     public Map<Month, boolean[]> createAvailability() {
