@@ -16,20 +16,16 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-// INCLUDE HERE THE LINK TO THE GIT REPOSITORY AS A COMMENT!!!!
-
-
-// INCLUDE HERE THE FULL NAME AND STUDENT NUMBER OF BOTH TEAM MEMBERS 
-// AS A COMMENT!!!!
-
-
+/**
+ * GitHub link repository: https://github.com/thayenelorens/RentACar
+ * 
+ * @author Thayene Lorens - Student ID:2020293
+ * @author Mayara Lorens - Student ID: 2020292
+ */
 
 /**
  *
  * @author apont
- * @author Thayene Lorens - Student ID:2020293
- * @author Mayara Lorens - Student ID: 2020292
- * GitHub link repository: https://github.com/thayenelorens/RentACar
  * 
  */
 public class Driver {
