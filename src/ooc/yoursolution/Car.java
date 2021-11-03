@@ -20,6 +20,16 @@ public class Car implements CarInterface {
     private Make make;
     private double rate;
     private boolean availability;
+    
+    //Constructor for the car
+    
+public Car (int id, Make make, double rate, boolean availability){
+    
+    this.id= id;
+    this.make= make;
+    this.rate=rate;
+    this.availability=availability;
+}
 
 
     @Override
