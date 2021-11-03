@@ -29,6 +29,8 @@ import java.io.IOException;
  * @author apont
  * @author Thayene Lorens - Student ID:2020293
  * @author Mayara Lorens - Student ID: 2020292
+ * GitHub link repository: https://github.com/thayenelorens/RentACar
+ * 
  */
 public class Driver {
 
