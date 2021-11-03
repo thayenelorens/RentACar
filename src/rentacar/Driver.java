@@ -17,7 +17,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 /**
- * GitHub link repository: https://github.com/thayenelorens/RentACar
+ * GitHub link repository: https://github.com/thayenelorens/RentACar.git
  * 
  * @author Thayene Lorens - Student ID:2020293
  * @author Mayara Lorens - Student ID: 2020292
